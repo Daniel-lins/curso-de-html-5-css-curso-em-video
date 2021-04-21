@@ -9,7 +9,7 @@ p {
     text-indent: 50px;
  }
 
- a {
+ a{
 
   color: #606060;
   text-decoration: none;
@@ -31,6 +31,7 @@ p {
   border-bottom: 1px #606060 solid;
   height: 150px ;
   background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
+   ;
  }
 
  header#cabecalho h1 {
